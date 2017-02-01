@@ -14,17 +14,17 @@ public class LogIn {
             //clickByXpath("html/body/div[6]/section[1]/div[1]/div[2]/div/a/h2");
         }
 
-//    @Test
-//    public void logIn(){
-//
-//    }
-//
-//    @Test
-//    public void testHome(){
-//    }
-//
-//    @Test
-//    public void testSignUp(){
-//
-//    }
+    @Test
+    public void logIn(){
+
+    }
+
+    @Test
+    public void testHome(){
+    }
+
+    @Test
+    public void testSignUp(){
+
+    }
 }
