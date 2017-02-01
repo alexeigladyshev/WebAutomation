@@ -14,8 +14,14 @@ public class TestCnnHome extends CommonAPI{
     @Test
     public void testHome(){
         clickByXpath(".//*[@id='nav']/div[2]/div[2]/a[2]");
+
+
+        //By headline = By.xpath("html/body/div[6]/section[1]/div[1]/div[2]/div/a/h2");
+        clickByXpath("html/body/div[6]/section[1]/div[1]/div[2]/div/a/h2");
+
         navigateBack();
-        clickByXpath(".//*[@id='nav']/div[2]/div[2]/a[3]");
+        //clickByXpath(".//*[@id='nav']/div[2]/div[2]/a[3]");
 
     }
+
 }

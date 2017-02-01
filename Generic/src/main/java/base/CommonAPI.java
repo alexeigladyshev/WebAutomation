@@ -38,7 +38,7 @@ public class CommonAPI {
     @BeforeMethod
     public void setUp(@Optional("false") boolean useCloudEnv, @Optional("rahmanww") String userName, @Optional("")
     String accessKey, @Optional("Windows 8") String os, @Optional("firefox") String browserName, @Optional("34")
-                      String browserVersion, @Optional("http://www.cnn.com") String url)throws IOException {
+                      String browserVersion, @Optional("http://www.ebay.com") String url)throws IOException {
 
         if(useCloudEnv==true){
             //run in cloud
