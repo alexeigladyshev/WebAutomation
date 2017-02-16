@@ -70,6 +70,7 @@
                 <module>Generic</module>
                 <module>Amazon</module>
                 <module>Cnn</module>
+                <module>Pinterest</module>
             </modules>
         </profile>
     </profiles>

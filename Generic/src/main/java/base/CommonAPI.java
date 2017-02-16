@@ -40,7 +40,7 @@ public class CommonAPI {
     String accessKey, @Optional("Windows 8") String os, @Optional("firefox") String browserName, @Optional("34")
                       String browserVersion, @Optional("http://www.ebay.com") String url)throws IOException {
 
-        if(useCloudEnv==true){
+        if(useCloudEnv){
             //run in cloud
             getCloudDriver(userName,accessKey,os,browserName,browserVersion);
 
@@ -81,7 +81,7 @@ public class CommonAPI {
     }
 
     public WebDriver getCloudDriver(String userName,String accessKey,String os, String browserName,
-                                    String browserVersion)throws IOException {{
+                                    String browserVersion)throws IOException {
 
         DesiredCapabilities cap = new DesiredCapabilities();
         cap.setCapability("platform", os);
@@ -91,7 +91,7 @@ public class CommonAPI {
                 "@ondemand.saucelabs.com:80/wd/hub"), cap);
         return driver;
     }
-    }
+
 
     @AfterMethod
     public void tearDown() throws Exception {
