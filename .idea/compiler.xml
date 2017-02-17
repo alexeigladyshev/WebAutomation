@@ -9,6 +9,7 @@
         <module name="Amazon" />
         <module name="Cnn" />
         <module name="Generic" />
+        <module name="Msnbc" />
         <module name="Pinterest" />
       </profile>
     </annotationProcessing>
@@ -16,6 +17,7 @@
       <module name="Amazon" target="1.8" />
       <module name="Cnn" target="1.8" />
       <module name="Generic" target="1.5" />
+      <module name="Msnbc" target="1.5" />
       <module name="Pinterest" target="1.5" />
       <module name="Test-Automation" target="1.5" />
     </bytecodeTargetLevel>
