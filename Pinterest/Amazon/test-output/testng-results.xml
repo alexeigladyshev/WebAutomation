@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Amazon E-Commerce" duration-ms="46512" started-at="2017-02-01T19:14:49Z" finished-at="2017-02-01T19:15:36Z">
+    <groups>
+    </groups>
+    <test name="Amazon Search" duration-ms="46512" started-at="2017-02-01T19:14:49Z" finished-at="2017-02-01T19:15:36Z">
+      <class name="SearchItems.SearchItemsByExcel">
+        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:SearchItems.SearchItemsByExcel@43a25848]" name="setUp" is-config="true" duration-ms="12816" started-at="2017-02-01T14:14:49Z" finished-at="2017-02-01T14:15:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[rahmanww]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[6f132866-de72-43fd-b49a-e6f81d26bfe3]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Win]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[49.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[http://www.amazon.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="search()[pri:0, instance:SearchItems.SearchItemsByExcel@43a25848]" name="search" duration-ms="32361" started-at="2017-02-01T14:15:02Z" finished-at="2017-02-01T14:15:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SearchItems.SearchItemsByExcel@43a25848]" name="tearDown" is-config="true" duration-ms="1307" started-at="2017-02-01T14:15:35Z" finished-at="2017-02-01T14:15:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SearchItems.SearchItemsByExcel -->
+    </test> <!-- Amazon Search -->
+  </suite> <!-- Amazon E-Commerce -->
+</testng-results>

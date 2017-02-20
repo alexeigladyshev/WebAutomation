@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Amazon E-Commerce" duration-ms="46512" started-at="2017-02-01T19:14:49Z" finished-at="2017-02-01T19:15:36Z">
+  <suite name="Amazon E-Commerce" duration-ms="55502" started-at="2017-02-20T18:24:54Z" finished-at="2017-02-20T18:25:50Z">
     <groups>
     </groups>
-    <test name="Amazon Search" duration-ms="46512" started-at="2017-02-01T19:14:49Z" finished-at="2017-02-01T19:15:36Z">
+    <test name="Amazon Search" duration-ms="55502" started-at="2017-02-20T18:24:54Z" finished-at="2017-02-20T18:25:50Z">
       <class name="SearchItems.SearchItemsByExcel">
-        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:SearchItems.SearchItemsByExcel@43a25848]" name="setUp" is-config="true" duration-ms="12816" started-at="2017-02-01T14:14:49Z" finished-at="2017-02-01T14:15:02Z">
+        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:SearchItems.SearchItemsByExcel@5594a1b5]" name="setUp" is-config="true" duration-ms="14592" started-at="2017-02-20T13:24:54Z" finished-at="2017-02-20T13:25:09Z">
           <params>
             <param index="0">
               <value>
@@ -48,11 +48,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="search()[pri:0, instance:SearchItems.SearchItemsByExcel@43a25848]" name="search" duration-ms="32361" started-at="2017-02-01T14:15:02Z" finished-at="2017-02-01T14:15:35Z">
+        <test-method status="PASS" signature="search()[pri:0, instance:SearchItems.SearchItemsByExcel@5594a1b5]" name="search" duration-ms="34272" started-at="2017-02-20T13:25:09Z" finished-at="2017-02-20T13:25:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- search -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:SearchItems.SearchItemsByExcel@43a25848]" name="tearDown" is-config="true" duration-ms="1307" started-at="2017-02-01T14:15:35Z" finished-at="2017-02-01T14:15:36Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SearchItems.SearchItemsByExcel@5594a1b5]" name="tearDown" is-config="true" duration-ms="6606" started-at="2017-02-20T13:25:43Z" finished-at="2017-02-20T13:25:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
