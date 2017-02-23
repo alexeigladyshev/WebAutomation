@@ -13,6 +13,7 @@
         <module>Amazon</module>
         <module>Cnn</module>
         <module>Msnbc</module>
+        <module>Edmunds</module>
     </modules>
 
    <dependencyManagement>

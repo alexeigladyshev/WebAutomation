@@ -15,9 +15,9 @@
 <test name = "Amazon Search">
     <classes>
         <class name="SearchItems.SearchItemsByExcel"/>
-        <!--<class name="SearchItems.SearchItemsByDatabase"/>-->
-        <!--<class name="SearchItems.SearchItemsByDataProvider"/>-->
-        <!--<class name="SearchItems.DropDownMenuSearch"/>-->
+        <class name="SearchItems.SearchItemsByDatabase"/>
+        <class name="SearchItems.SearchItemsByDataProvider"/>
+        <class name="SearchItems.DropDownMenuSearch"/>
     </classes>
 </test>
 

@@ -42,7 +42,7 @@ public class TakesScreenShot extends CommonAPI {
         driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
 
         File scrFile = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
-        System.out.println(scrFile.getAbsolutePath());
+        //System.out.println(scrFile.getAbsolutePath());
 
         DateFormat df = new SimpleDateFormat("ddMMyy-HHmmss");
         Date dateobj = new Date();

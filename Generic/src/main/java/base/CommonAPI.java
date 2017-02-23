@@ -35,20 +35,20 @@ public class CommonAPI {
 
     public WebDriver driver = null;
     @Parameters({"useCloudEnv","userName","accessKey","os","browserName","browserVersion","url"})
-    @BeforeMethod
-    public void setUp(@Optional("false") boolean useCloudEnv, @Optional("rahmanww") String userName, @Optional("")
-    String accessKey, @Optional("Windows 8") String os, @Optional("firefox") String browserName, @Optional("34")
-                      String browserVersion, @Optional("http://www.ebay.com") String url)throws IOException {
+        @BeforeMethod
+        public void setUp(@Optional("false") boolean useCloudEnv, @Optional("rahmanww") String userName, @Optional("")
+        String accessKey, @Optional("Windows 8") String os, @Optional("firefox") String browserName, @Optional("34")
+        String browserVersion, @Optional("http://www.ebay.com") String url)throws IOException {
 
-        if(useCloudEnv){
-            //run in cloud
-            getCloudDriver(userName,accessKey,os,browserName,browserVersion);
+            if(useCloudEnv){
+                //run in cloud
+                getCloudDriver(userName,accessKey,os,browserName,browserVersion);
 
-        }else{
-            //run in local
-            getLocalDriver(os,browserName);
+            }else{
+                //run in local
+                getLocalDriver(os,browserName);
 
-        }
+            }
 
         driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
         driver.get(url);
