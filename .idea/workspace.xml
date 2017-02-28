@@ -2,37 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79bc3ab4-069e-4fd9-8a87-ef3f9e739c71" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Edmunds/src/test/resources/EdmundsAppTestRunner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/data/file1.xls" afterPath="$PROJECT_DIR$/Amazon/data/file1.xls" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" afterPath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pinterest/target/test-classes/Homepage/TakesScreenShot.class" afterPath="$PROJECT_DIR$/Pinterest/target/test-classes/Homepage/TakesScreenShot.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/src/test/resources/AmazonAppTestRunner.xml" afterPath="$PROJECT_DIR$/Amazon/src/test/resources/AmazonAppTestRunner.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/MANIFEST.MF" afterPath="$PROJECT_DIR$/Amazon/target/MANIFEST.MF" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng.css" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/test-classes/AmazonAppTestRunner.xml" afterPath="$PROJECT_DIR$/Amazon/target/test-classes/AmazonAppTestRunner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/test-output/Amazon E-Commerce/Amazon Search.html" afterPath="$PROJECT_DIR$/Amazon/test-output/Amazon E-Commerce/Amazon Search.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/test-output/Amazon E-Commerce/Amazon Search.xml" afterPath="$PROJECT_DIR$/Amazon/test-output/Amazon E-Commerce/Amazon Search.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/test-output/Amazon E-Commerce/testng-failed.xml" afterPath="$PROJECT_DIR$/Amazon/test-output/Amazon E-Commerce/testng-failed.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/test-output/emailable-report.html" afterPath="$PROJECT_DIR$/Amazon/test-output/emailable-report.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/test-output/index.html" afterPath="$PROJECT_DIR$/Amazon/test-output/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/test-output/junitreports/TEST-SearchItems.DropDownMenuSearch.xml" afterPath="$PROJECT_DIR$/Amazon/test-output/junitreports/TEST-SearchItems.DropDownMenuSearch.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/test-output/junitreports/TEST-SearchItems.SearchItemsByDataProvider.xml" afterPath="$PROJECT_DIR$/Amazon/test-output/junitreports/TEST-SearchItems.SearchItemsByDataProvider.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/test-output/junitreports/TEST-SearchItems.SearchItemsByDatabase.xml" afterPath="$PROJECT_DIR$/Amazon/test-output/junitreports/TEST-SearchItems.SearchItemsByDatabase.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/test-output/junitreports/TEST-SearchItems.SearchItemsByExcel.xml" afterPath="$PROJECT_DIR$/Amazon/test-output/junitreports/TEST-SearchItems.SearchItemsByExcel.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/test-output/old/Amazon E-Commerce/classes.html" afterPath="$PROJECT_DIR$/Amazon/test-output/old/Amazon E-Commerce/classes.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/test-output/old/Amazon E-Commerce/methods-alphabetical.html" afterPath="$PROJECT_DIR$/Amazon/test-output/old/Amazon E-Commerce/methods-alphabetical.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/test-output/old/Amazon E-Commerce/methods.html" afterPath="$PROJECT_DIR$/Amazon/test-output/old/Amazon E-Commerce/methods.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/test-output/old/Amazon E-Commerce/testng.xml.html" afterPath="$PROJECT_DIR$/Amazon/test-output/old/Amazon E-Commerce/testng.xml.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/test-output/old/Amazon E-Commerce/toc.html" afterPath="$PROJECT_DIR$/Amazon/test-output/old/Amazon E-Commerce/toc.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/test-output/old/index.html" afterPath="$PROJECT_DIR$/Amazon/test-output/old/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/test-output/testng-failed.xml" afterPath="$PROJECT_DIR$/Amazon/test-output/testng-failed.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/test-output/testng-results.xml" afterPath="$PROJECT_DIR$/Amazon/test-output/testng-results.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/test-output/testng.css" afterPath="$PROJECT_DIR$/Amazon/test-output/testng.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Cnn/src/test/resources/CnnAppLogTestRunner.xml" afterPath="$PROJECT_DIR$/Cnn/src/test/resources/CnnAppLogTestRunner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Cnn/src/test/resources/CnnAppTestRunner.xml" afterPath="$PROJECT_DIR$/Cnn/src/test/resources/CnnAppTestRunner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Edmunds/Edmunds.iml" afterPath="$PROJECT_DIR$/Edmunds/Edmunds.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -60,71 +33,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CommonAPI.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CommonAPI.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="39" column="77" lean-forward="false" selection-start-line="39" selection-start-column="77" selection-end-line="39" selection-end-column="77" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DropDownMenuSearch.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/SearchItems/DropDownMenuSearch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AmazonAppTestRunner.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/src/test/resources/AmazonAppTestRunner.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="71" lean-forward="false" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="71" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CnnAppLogTestRunner.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Cnn/src/test/resources/CnnAppLogTestRunner.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="15" column="35" lean-forward="false" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EdmundsAppTestRunner.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Edmunds/src/test/resources/EdmundsAppTestRunner.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CnnAppTestRunner.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Cnn/src/test/resources/CnnAppTestRunner.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" column="45" lean-forward="false" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CNNclickHeadline.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Cnn/src/test/resources/CNNclickHeadline.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="53" lean-forward="false" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+            <state relative-caret-position="336">
+              <caret line="47" column="30" lean-forward="true" selection-start-line="47" selection-start-column="30" selection-end-line="47" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -223,8 +136,8 @@
     <treeState />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="99" />
-    <option name="y" value="34" />
+    <option name="x" value="148" />
+    <option name="y" value="45" />
     <option name="width" value="1568" />
     <option name="height" value="951" />
   </component>
@@ -268,118 +181,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Pinterest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FrameworkNov2016_1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FrameworkNov2016_1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Pinterest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FrameworkNov2016_1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FrameworkNov2016_1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Pinterest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FrameworkNov2016_1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FrameworkNov2016_1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Pinterest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FrameworkNov2016_1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FrameworkNov2016_1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Pinterest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Screenshots" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FrameworkNov2016_1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FrameworkNov2016_1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Msnbc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FrameworkNov2016_1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FrameworkNov2016_1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="Edmunds" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -394,19 +195,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Edmunds" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
+              <option name="myItemId" value="Amazon" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -420,91 +209,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Edmunds" />
+              <option name="myItemId" value="Amazon" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FrameworkNov2016_1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FrameworkNov2016_1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Edmunds" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FrameworkNov2016_1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FrameworkNov2016_1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Cnn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FrameworkNov2016_1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FrameworkNov2016_1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Cnn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FrameworkNov2016_1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FrameworkNov2016_1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Cnn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
+              <option name="myItemId" value="data" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1149,7 +858,14 @@
       <option name="project" value="LOCAL" />
       <updated>1487875480384</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="improvements">
+      <created>1488301128877</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1488301128877</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1185,7 +901,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="99" y="34" width="1568" height="951" extended-state="0" />
+    <frame x="148" y="45" width="1568" height="951" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1233,10 +949,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="most recent webautomation project" />
     <MESSAGE value="updated Pinterest project" />
-    <MESSAGE value="improvements" />
     <MESSAGE value="using github" />
     <MESSAGE value="updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="updates" />
+    <MESSAGE value="improvements" />
+    <option name="LAST_COMMIT_MESSAGE" value="improvements" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1498,26 +1214,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="39" column="77" lean-forward="false" selection-start-line="39" selection-start-column="77" selection-end-line="39" selection-end-column="77" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/SearchItems/DropDownMenuSearch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/test/resources/AmazonAppTestRunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="71" lean-forward="false" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="71" />
           <folding />
         </state>
       </provider>
@@ -1550,6 +1250,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/resources/AmazonAppTestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="71" lean-forward="false" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="47" column="30" lean-forward="true" selection-start-line="47" selection-start-column="30" selection-end-line="47" selection-end-column="30" />
           <folding />
         </state>
       </provider>
