@@ -12,7 +12,7 @@
 
 <test name="TestHomepage">
     <classes>
-        <!--<class name="Homepage.TestPageFactory"/>-->
+        <class name="Homepage.TestPageFactory"/>
         <class name="Homepage.TakesScreenShot"/>
     </classes>
 </test>
