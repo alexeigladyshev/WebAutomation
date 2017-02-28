@@ -5,7 +5,7 @@
 <suite name="Amazon E-Commerce" parallel="tests">
 
 <parameter name="useCloudEnv" value="false"/>
-<parameter name="userName" value="rahmanww"/>
+<parameter name="userName" value="alexei1"/>
 <parameter name="accessKey" value="6f132866-de72-43fd-b49a-e6f81d26bfe3"/>
 <parameter name="os" value="Win"/>
 <parameter name="browserName" value="chrome"/>
@@ -15,9 +15,9 @@
 <test name = "Amazon Search">
     <classes>
         <class name="SearchItems.SearchItemsByExcel"/>
-        <class name="SearchItems.SearchItemsByDatabase"/>
-        <class name="SearchItems.SearchItemsByDataProvider"/>
-        <class name="SearchItems.DropDownMenuSearch"/>
+        <!--<class name="SearchItems.SearchItemsByDatabase"/>-->
+        <!--<class name="SearchItems.SearchItemsByDataProvider"/>-->
+        <!--<class name="SearchItems.DropDownMenuSearch"/>-->
     </classes>
 </test>
 

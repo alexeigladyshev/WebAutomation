@@ -4,7 +4,7 @@
 
 
     <parameter name="useCloudEnv" value="false"/>
-    <parameter name="userName" value="rahmanww"/>
+    <parameter name="userName" value="alexei1"/>
     <parameter name="accessKey" value="6f132866-de72-43fd-b49a-e6f81d26bfe3"/>
     <parameter name="os" value="Windows"/>
     <parameter name="url" value="http://www.cnn.com/"/>
