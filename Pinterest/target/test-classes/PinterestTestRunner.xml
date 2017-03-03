@@ -3,7 +3,7 @@
 <suite name="Test Pinterest">
 
     <parameter name="useCloudEnv" value="false"/>
-    <parameter name="userName" value="alexei1"/>
+    <parameter name="userName" value="alexei12"/>
     <parameter name="accessKey" value="6429a6ed-bc8a-45b9-96bf-59ba979ec018"/>
     <parameter name="os" value="Win"/>
     <parameter name="browserName" value="chrome"/>
@@ -13,7 +13,7 @@
 <test name="TestHomepage">
     <classes>
         <class name="Homepage.TestPageFactory"/>
-        <class name="Homepage.TakesScreenShot"/>
+        <!--<class name="Homepage.TakesScreenShot"/>-->
     </classes>
 </test>
 
