@@ -14,7 +14,8 @@
 
     <test name = "Msnbc Search">
         <classes>
-            <class name="SearchItemsByExcel"/>
+            <!--<class name="SearchItemsByExcel"/>-->
+            <class name="SearchByDataProvider"/>
         </classes>
     </test>
 
